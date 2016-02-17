@@ -1,0 +1,6 @@
+logic OWL
+ontology Importer1 =
+  <https://github.com/eugenk/test-import-dol/raw/master/OwlBase.owl>
+then
+  Class: Importer1Class
+end

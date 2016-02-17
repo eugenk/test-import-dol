@@ -1,0 +1,3 @@
+Prefix: self: <https://github.com/eugenk/test-import-dol/raw/master/OwlBase#>
+Ontology: <https://github.com/eugenk/test-import-dol/raw/master/OwlBase>
+Class: self:OwlBaseClass
